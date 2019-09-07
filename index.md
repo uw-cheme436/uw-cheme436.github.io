@@ -11,11 +11,11 @@ Lectures on statistics, experimental design, instrumentation, lab safety, and re
 ## Instructors
 
 - Prof. Chad Curtis (ccurtis7@uw.edu)
-- Prof. Fran&#231;ois Baneyx (baneyx@uw.edu)
 
 ## Teaching Assistants
 
-- TBD
+- Le Zhen (zhenle@uw.edu)
+- Chris Nyambura (cnyambr@uw.edu)
 
 ## Teaching Logistics
 

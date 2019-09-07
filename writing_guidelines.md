@@ -19,7 +19,7 @@ collection: main
 - **Introduction**:
   1. Summarize the relevant theory
   2. Include key equations and cite sources, but omit details such as derivations. Equations should be separate from the text and numbered.
-  4. Include the purpose and scope. Objective must be specific. *The assignment memos are purposefully vague, so you must define more specific objectives.* Otherwise, you will not have a clear purpose for your experiments and analysis.
+  4. Include the purpose and scope. Objectives must be specific. *The assignment memos are purposefully vague, so you must define more specific objectives.* Otherwise, you will not have a clear purpose for your experiments and analysis.
   5. Summarize results/data available in the literature (If you do not believe that no relevant data exist, say so and describe your search).
 - **Materials and methods**:
   1. Describe available equipment and how you will use it to achieve your objectives.

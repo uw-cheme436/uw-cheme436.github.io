@@ -35,7 +35,11 @@ collection: main
 
 Planning and Final Reports should be submitted to the TA/ Instructor:
 
-**Pump Characteristics**, **Heat Exchanger**: Prof. Chad Curtis (ccurtis7@uw.edu)
-**Fin Efficiency**, **Transport Phenomena**: TBD
+**Pump Characteristics**, **Heat Exchanger**: Prof. Chad Curtis
+**Fin Efficiency**, **Transport Phenomena**: Le Zhen and Chris Nyambura
+
+## How to Succeed in This Class
+
+As a team-based class, your experience here will inevitably be tied up with the success of your team. I am sensitive to this, and we are really invested in helping each team succeed. Before jumping into writing up any of the assignments, take some time to get organized and establish expectations among team members. If you have any problems in your teams, please reach out as soon as possible to get it resolved.
 
 {: rules="groups"}
