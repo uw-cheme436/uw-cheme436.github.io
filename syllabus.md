@@ -8,8 +8,8 @@ collection: main
 
 | Week | Lab (Mo/Tu)            | Tu           | Th            | Due           |
 | ---- | ------------- | ------------- | ------------- | ------------- |
-| 1    | NA            | NA    | Sept 24 <br> [Orientation](https://drive.google.com/open?id=0B7kjrAcASVrqb1RpempaaTg4SWFaeFpqTngtM1NacVlmbGlr) in BNS 035 <br> Form team <br> Receive memo 1 | PR 1 (26) |
-| 2    | 30 Experiment 1 <br> Collect data | Oct 1 <br> L2: Planning | 3 <br> L3: Uncertainty | Meet with instructor (AA:30, AB:1) |
+| 1    | NA            | NA    | Sept 24 <br> Introduction <br> Form team <br> Receive memo 1 | PR 1 (26) |
+| 2    | 30 Due: Lab Safety <br> Experiment 1 <br> Collect data | Oct 1 <br> L2: Planning | 3 <br> L3: Uncertainty | Meet with instructor (AA:30, AB:1) |
 | 3    | 7 Complete Exp. 1 <br> Receive memo 2 | 8 <br> L4: Combined Uncertainty | 10 <br> L5: Hypothesis Testing I | -- |
 | 4    | 14 Oral Presentations <br> 1:30-3:00 BNS 203 | 15 <br> L6: Hypothesis Testing II | 17 <br> L7: Linear Regression | FR 1 (AA:14, AB:15) <br> OP 1 (AA:14, AB:15) <br> PR 2 (17) |
 | 5    | 21 Experiment 2 <br> Collect data      | 22 <br> L8: Experimental Design | 24 <br> L9: Ethics | Meet with instructor (AA:21, AB:22) |
