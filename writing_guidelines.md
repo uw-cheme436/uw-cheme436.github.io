@@ -12,6 +12,8 @@ collection: main
 
 - The designated instructor will grade the PR, offering suggestions and corrections using track changes. The TA will inform the team via email one day prior to the lab period if they are ready to start the experiment or if a meeting is needed.
 
+- A template for the planning report can be downloaded [here](https://github.com/uw-cheme436/uw-cheme436.github.io/blob/master/templates/Labx_session_team_experiment_PR.docx).
+
 # Organization
 
 - **File name**: Use the format "Labx_session_team_experiment_PR"
@@ -76,6 +78,8 @@ collection: main
 # Requirements
 
 - **Your written Final Report (FR) must be submitted electronically as a Word file to the designated instructor by midnight on your normal meeting day during the week of oral presentations**. This means Mondays for Section AA and Tuesdays for Section AB.
+
+- A template for the final report can be downloaded [here](https://github.com/uw-cheme436/uw-cheme436.github.io/blob/master/templates/Labx_session_team_experiment_FR.docx).
 
 # Audience
 
